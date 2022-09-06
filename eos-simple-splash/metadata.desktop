@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=eos-simple-splash
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=eos-simple-splash
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=smokey
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=eos-simple-splash
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=
